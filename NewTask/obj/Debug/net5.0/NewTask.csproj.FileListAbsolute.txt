@@ -1,0 +1,16 @@
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.csprojAssemblyReference.cache
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.AssemblyInfoInputs.cache
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.AssemblyInfo.cs
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\NewTask.exe
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\NewTask.deps.json
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\NewTask.runtimeconfig.json
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\NewTask.runtimeconfig.dev.json
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\NewTask.dll
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\ref\NewTask.dll
+C:\Users\79196\Desktop\Homework\NewTask\bin\Debug\net5.0\NewTask.pdb
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.dll
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\ref\NewTask.dll
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.pdb
+C:\Users\79196\Desktop\Homework\NewTask\obj\Debug\net5.0\NewTask.genruntimeconfig.cache
