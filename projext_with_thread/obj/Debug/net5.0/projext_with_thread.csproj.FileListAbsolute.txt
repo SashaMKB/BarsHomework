@@ -1,0 +1,16 @@
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\projext_with_thread.exe
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\projext_with_thread.deps.json
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\projext_with_thread.runtimeconfig.json
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\projext_with_thread.runtimeconfig.dev.json
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\projext_with_thread.dll
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\ref\projext_with_thread.dll
+C:\Users\79196\Desktop\Homework\projext_with_thread\bin\Debug\net5.0\projext_with_thread.pdb
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.csprojAssemblyReference.cache
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.AssemblyInfoInputs.cache
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.AssemblyInfo.cs
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.csproj.CoreCompileInputs.cache
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.dll
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\ref\projext_with_thread.dll
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.pdb
+C:\Users\79196\Desktop\Homework\projext_with_thread\obj\Debug\net5.0\projext_with_thread.genruntimeconfig.cache
